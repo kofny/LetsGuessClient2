@@ -1,5 +1,7 @@
 export default {
   'menu.welcome': 'Welcome',
+  'menu.data': 'Corpus',
+  'menu.task': 'Task',
   'menu.more-blocks': 'More Blocks',
   'menu.home': 'Home',
   'menu.admin': 'admin',
