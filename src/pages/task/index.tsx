@@ -2,7 +2,6 @@ import {PageHeaderWrapper} from '@ant-design/pro-layout';
 // import React, { useState, useEffect } from 'react';
 // import { Spin } from 'antd';
 import styles from './index.less';
-import TaskTabsIcon from './TaskTabsIcon';
 import React from 'react';
 
 export default () => {
@@ -14,7 +13,6 @@ export default () => {
    }, []);*/
   return (
     <PageHeaderWrapper content="这是一个新页面，从这里进行开发！" className={styles.main}>
-      <TaskTabsIcon/>
       {/*      <div
         style={{
           paddingTop: 100,

@@ -1,7 +1,13 @@
 export default {
   'menu.welcome': '欢迎',
   'menu.data': '数据模块',
+  'menu.data.query': '查看数据',
+  'menu.data.upload': '上传数据',
+  'menu.data.download': '下载字典',
   'menu.task': '任务模块',
+  'menu.task.query': '查看任务',
+  'menu.task.create': '创建任务',
+  'menu.task.compare': '对比分析',
   'menu.more-blocks': '更多区块',
   'menu.home': '首页',
   'menu.admin': '管理页',

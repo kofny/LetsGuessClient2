@@ -12,7 +12,7 @@ export default () => {
      }, 3000);
    }, []);*/
   return (
-    <PageHeaderWrapper content="在这里查看任务的状态吧!" className={styles.main}>
+    <PageHeaderWrapper content="在这里查看你的实验数据吧" className={styles.main}>
       {/*      <div
         style={{
           paddingTop: 100,

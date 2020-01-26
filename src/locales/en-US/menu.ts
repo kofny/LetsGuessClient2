@@ -1,7 +1,13 @@
 export default {
   'menu.welcome': 'Welcome',
   'menu.data': 'Corpus',
+  'menu.data.query': 'Visualization',
+  'menu.data.upload': 'Upload Corpus',
+  'menu.data.download': 'Download Dict',
   'menu.task': 'Task',
+  'menu.task.query': 'Query Tasks',
+  'menu.task.create': 'Create Task',
+  'menu.task.compare': 'Comparison',
   'menu.more-blocks': 'More Blocks',
   'menu.home': 'Home',
   'menu.admin': 'admin',
